@@ -1,7 +1,7 @@
 plugins {
   id 'groovy'
   id 'application'
-  id 'com.github.johnrengelman.shadow' version '1.2.4'
+  id 'com.github.johnrengelman.shadow' version '5.1.0'
 }
 
 apply plugin: 'groovy'
